@@ -18,6 +18,4 @@ This project implements a robust **Generative Search System** for answering quer
 
 ## Data Sources
 
-The system processes **PDF documents** of insurance policies and claims, which are stored in a directory and loaded using **SimpleDirectoryReader**.# InsuranceDocumentHelperAI
-# InsuranceDocumentHelperAI
-# InsuranceDocumentHelperAI
+The system processes **PDF documents** of insurance policies and claims, which are stored in a directory and loaded using **SimpleDirectoryReader**.
